@@ -1,0 +1,2 @@
+registry=https://registry.npmjs.org/
+@microsoft:registry=https://fuselabs.pkgs.visualstudio.com/SDK_Public/_packaging/sdk_public_npm/npm/registry/
